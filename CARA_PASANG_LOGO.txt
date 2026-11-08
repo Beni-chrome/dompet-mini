@@ -1,0 +1,15 @@
+LOGO SUDAH TERPASANG
+====================
+Semua logo ada di: app/src/main/res/drawable-nodpi
+  logo_mlbb, logo_freefire, logo_pubg, logo_genshin, logo_valorant, logo_roblox
+  logo_telkomsel, logo_indosat, logo_xl
+  logo_googleplay, logo_steam, logo_spotify
+
+Ingin mengganti logo? Timpa file dengan nama yang sama (persegi, 256-512 px,
+huruf kecil, tanpa spasi). Jika file tidak ada, aplikasi otomatis memakai emoji.
+
+Logo aplikasi: app_logo.png (splash/login/daftar)
+Ikon launcher: mipmap-* dan mipmap-anydpi-v26 (adaptive + monochrome)
+
+Catatan: logo merek dimiliki masing-masing pemilik dan dipakai hanya untuk
+keperluan tugas kuliah.

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Terakota / merah bata (utama) -->
+    <color name="brandStart">#B8492B</color>
+    <color name="brandEnd">#8E3420</color>
+    <color name="primaryDark">#7A2B19</color>
+    <color name="brandSoft">#F6E3D3</color>
+    <!-- Kunyit (aksen) -->
+    <color name="accent">#E8A317</color>
+    <color name="accentEnd">#D9822B</color>
+    <color name="accentSoft">#FBEFCB</color>
+    <!-- Hijau daun & merah cabai -->
+    <color name="success">#2F7D4F</color>
+    <color name="successSoft">#DFF0E4</color>
+    <color name="danger">#C0392B</color>
+    <!-- Krem, gading, tinta kopi -->
+    <color name="bg">#FBF4E8</color>
+    <color name="surface">#FFFCF6</color>
+    <color name="textPrimary">#2B1D14</color>
+    <color name="textSecondary">#7B6B5C</color>
+    <color name="divider">#E9DCC8</color>
+    <color name="white">#FFFFFF</color>
+    <color name="glass">#26FFFFFF</color>
+    <!-- Warna banner promo (nila, daun) -->
+    <color name="nila">#2E4A7D</color>
+    <color name="daun">#2F6B4F</color>
+</resources>

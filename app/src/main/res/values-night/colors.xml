@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Mode gelap: cokelat kopi -->
+    <color name="bg">#1D1612</color>
+    <color name="surface">#2A201A</color>
+    <color name="textPrimary">#F6EBDD</color>
+    <color name="textSecondary">#B9A896</color>
+    <color name="divider">#3E3027</color>
+    <color name="brandStart">#C9573A</color>
+    <color name="primaryDark">#4A1D12</color>
+    <color name="brandSoft">#3D2A22</color>
+    <color name="accentSoft">#3A2E12</color>
+    <color name="successSoft">#1E3A2A</color>
+</resources>
